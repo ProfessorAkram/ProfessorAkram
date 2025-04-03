@@ -55,6 +55,7 @@ Latest Played: `Donut County` 🍩
 
 ### 📊 GitHub Stats  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorAkram&theme=vue&show_icons=true&hide_border=true&layout=compact" alt="ProfessorAkram's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=professorakram&show_icons=true&theme=vue">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=professorakram&theme=vue">
 </p>
